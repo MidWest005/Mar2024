@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("hello worldy!!!");
+            Console.WriteLine("test text 002");
         }
     }
 }
