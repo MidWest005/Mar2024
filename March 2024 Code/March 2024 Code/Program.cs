@@ -5,11 +5,8 @@ namespace March_2024_Code
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("hello worldy");
-            Console.WriteLine("I am adding stuff to this change001");
-            Console.WriteLine("Testing merge going to working");
-
+            Console.WriteLine("testing a text change and a delete");
         }
 
         /* 3/18/2024
