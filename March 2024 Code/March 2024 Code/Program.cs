@@ -7,7 +7,9 @@ namespace March_2024_Code
         {
 
             Console.WriteLine("hello worldy");
-            Console.WriteLine("I ma adding stuff to this change001");
+            Console.WriteLine("I am adding stuff to this change001");
+            Console.WriteLine("Testing merge going to working");
+
         }
 
         /* 3/18/2024
