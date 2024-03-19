@@ -7,6 +7,7 @@ namespace March_2024_Code
         {
             Console.WriteLine("hello worldy");
             Console.WriteLine("testing a text change and a delete");
+            Console.WriteLine("Testing adding one file at a time");
         }
 
         /* 3/18/2024
