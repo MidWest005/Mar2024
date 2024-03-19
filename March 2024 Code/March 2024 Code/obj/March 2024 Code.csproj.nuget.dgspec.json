@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mlwest5ITX\\Desktop\\mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj": {}
+    "C:\\Users\\Mlwest5ITX\\Desktop\\Mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mlwest5ITX\\Desktop\\mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj": {
+    "C:\\Users\\Mlwest5ITX\\Desktop\\Mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mlwest5ITX\\Desktop\\mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj",
+        "projectUniqueName": "C:\\Users\\Mlwest5ITX\\Desktop\\Mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj",
         "projectName": "March 2024 Code",
-        "projectPath": "C:\\Users\\Mlwest5ITX\\Desktop\\mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj",
+        "projectPath": "C:\\Users\\Mlwest5ITX\\Desktop\\Mar2024\\March 2024 Code\\March 2024 Code\\March 2024 Code.csproj",
         "packagesPath": "C:\\Users\\Mlwest5ITX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mlwest5ITX\\Desktop\\mar2024\\March 2024 Code\\March 2024 Code\\obj\\",
+        "outputPath": "C:\\Users\\Mlwest5ITX\\Desktop\\Mar2024\\March 2024 Code\\March 2024 Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
